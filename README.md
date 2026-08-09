@@ -1,4 +1,4 @@
-# 🌐 CodeAlpha Language Translation Tool
+# 🌐 Language Translation Tool
 
 A modern, full-featured **Language Translation Application** built with **React**, **Vite**, and **Vanilla CSS**. Designed with a sleek dark glassmorphism interface, real-time translations, speech recognition, text-to-speech voice synthesis, and translation history management.
 
